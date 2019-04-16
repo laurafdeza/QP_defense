@@ -9,6 +9,7 @@ output:
     lib_dir: libs
     css: ["tamu-fonts", "tamu"]
     nature:
+      beforeInit: "macros.js"
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
@@ -235,7 +236,9 @@ If you run all the code, and print, it will retrieve results for exp 2
 Results reproduced mostly
 But, for experiment 1 (table 1), beta not always
 
-![See P beta > 0 column, data not always reproduced](./libs/images/table_1.png)
+See P beta > 0 column, data not always reproduced
+
+![](./libs/images/table_1.png)
 
 --
 ![](./libs/images/beta_1.png)
@@ -260,18 +263,16 @@ Reasons:
 
   - Stimuli provided
   - Working code provided
-  
---  
-<br/>
 
+--
+
+<br/>
   - No pre-registration
   - No README
   - No reproducible document
   - Poor comments and name assignment in code resulting in confusing reproducible results
   - Data sometimes manipulated?
   - Directory had to be changed to reproduce figures 1 & 2
-
-
 
 ???
 
