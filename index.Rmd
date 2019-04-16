@@ -264,20 +264,20 @@ Score: 5/10
 
 Reasons:  
 
-.pull-left[
+
   - Stimuli provided
   - Working code provided
-]
---
 
-.pull-right[
+--
+<br/>
+
   - No pre-registration
   - No README
   - No reproducible document
   - Poor comments and name assignment in code resulting in confusing reproducible results
   - Data sometimes manipulated?
   - Directory had to be changed to reproduce figures 1 & 2
-]
+
 
 ???
 
