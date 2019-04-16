@@ -225,7 +225,8 @@ Two figures have their own code, four others embedded in analysis code, and not 
 If you run all the code, and print, it will retrieve results for exp 2 
 
 ---
-See higher bound for estimate, numbers sometimes truncated, other rounded
+##### See higher bound for estimate, numbers sometimes truncated, other rounded
+
 ![](./libs/images/table_2.png)
 
 ![](./libs/images/hb_2.png)
@@ -234,14 +235,15 @@ See higher bound for estimate, numbers sometimes truncated, other rounded
 
 # 5. Analysis
 
-Results reproduced mostly
+Results reproduced mostly   
 But, for experiment 1 (table 1), beta not always
 
-See P beta > 0 column, data not always reproduced
+--
+
+##### See P beta > 0 column, data not always reproduced
 
 ![](./libs/images/table_1.png)
 
---
 ![](./libs/images/beta_1.png)
 
 ---
