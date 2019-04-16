@@ -264,18 +264,20 @@ Score: 5/10
 
 Reasons:  
 
+.pull-left[
   - Stimuli provided
   - Working code provided
-
+]
 --
 
-<br/>
+.pull-right[
   - No pre-registration
   - No README
   - No reproducible document
   - Poor comments and name assignment in code resulting in confusing reproducible results
   - Data sometimes manipulated?
   - Directory had to be changed to reproduce figures 1 & 2
+]
 
 ???
 
@@ -289,6 +291,8 @@ xaringan::inf_mr()  # delay is one second
 
 <img src="./libs/images/model.png" height="480px" width="800px"/>
 
+???
+We all feel frustrated: Model that shit
 
 ---
 <br/>
