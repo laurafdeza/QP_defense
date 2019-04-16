@@ -225,9 +225,10 @@ Two figures have their own code, four others embedded in analysis code, and not 
 If you run all the code, and print, it will retrieve results for exp 2 
 
 ---
-![See higher bound for estimate, numbers sometimes truncated, other rounded](./libs/images/table_2.png)
+See higher bound for estimate, numbers sometimes truncated, other rounded
+![](./libs/images/table_2.png)
 
-![See higher bound for estimate, numbers sometimes truncated, other rounded](./libs/images/hb_2.png)
+![](./libs/images/hb_2.png)
 
 ---
 
