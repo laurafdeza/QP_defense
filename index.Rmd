@@ -75,7 +75,7 @@ The relationships they focus on are Givenness and Focus distinctions, as prosody
 
 --
 
-"(ii) How well they can identify an appropriate prosodic form to match the focus condition specified by the discourse context (func- tion-to-form mapping)"
+"(ii) How well they can identify an appropriate prosodic form to match the focus condition specified by the discourse context (function-to-form mapping)"
 
 ---
 
