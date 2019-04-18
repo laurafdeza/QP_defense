@@ -211,8 +211,8 @@ No print command to see actual results
 
 >
 
-Results confusing: same names for code variables in both experiments        
-Decimals sometimes truncated sometimes rounded up or down     
+Results confusing: same names for code variables in both experiments   <br/>     
+Decimals sometimes truncated sometimes rounded up or down     <br/>
 Exp 3 outputs many more numbers than reported: criteria for exclusion?
 
 
