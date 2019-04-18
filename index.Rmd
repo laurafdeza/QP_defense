@@ -208,11 +208,9 @@ No errors (if everything run)
 No output   
 Poor informative comments in code (except at beginning)
 No print command to see actual results
-
 >
-
-Results confusing: same names for code variables in both experiments   <br/>     
-Decimals sometimes truncated sometimes rounded up or down     <br/>
+Results confusing: same names for code variables in both experiments        
+Decimals sometimes truncated sometimes rounded up or down   
 Exp 3 outputs many more numbers than reported: criteria for exclusion?
 
 
