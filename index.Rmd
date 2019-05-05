@@ -205,7 +205,8 @@ No cross-linguistic transfer.
 
 --
 
-      - To evaluate the influence of each independent variable on the capacity to anticipate figurative language:
+      - To evaluate the influence of each independent variable on the capacity
+      to anticipate figurative language:
 
 --
 
@@ -217,9 +218,11 @@ No cross-linguistic transfer.
 
     Your turn:
 
-      - Calculate whether L2 speakers anticipated expressions with equivalent versions in English in figurative trials.
+      - Calculate whether L2 speakers anticipated expressions with equivalent 
+      versions in English in figurative trials.
       - Calculate homogeneity.
-      - Calculate any differences in anticipation between groups for figurative trials in general.
+      - Calculate any differences in anticipation between groups for 
+      figurative trials in general.
 
 --
     How to:
@@ -265,15 +268,16 @@ We can reject H<sub>0</sub> (no differences) and conclude that monolingual speak
 
 # 5. Results
 
-.pull-left[![Group anticipation comparison in figurative trials](./libs/images/Figurative.png)]
+Group anticipation comparison in by figurativeness
+![](./libs/images/figurativeness.png)
 
-.pull-right[![Group anticipation comparison in literal trials](./libs/images/Literal.png)]
 
 ---
 
 # 5. Results
 
-![L2 speakers' anticipation in figurative and literal trials comparing expressions with equivalent versions in English](./libs/images/L2_equivEN.png)
+L2 speakers' anticipation in figurative and literal trials comparing expressions with equivalent versions in English
+![](./libs/images/L2_equivEN.png)
 
 ---
 
