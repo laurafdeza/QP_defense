@@ -1,3 +1,3 @@
-# Roettger_et_al_2019_REPRODUCIBILITY
+# Stats class spring 2019
 
-https://laurafdeza.github.io/Roettger_al_2019_REPRODUCIBILITY/index
+

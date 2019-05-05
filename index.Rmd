@@ -1,13 +1,12 @@
 ---
-title: "Mapping prosody onto meaning – the case of information structure in American English"
-subtitle: "Roettger, Mahrt & Cole, 2019"
+title: "Anticipation of Figurative Collocations Based on Lexical Cues in L1 and L2 Speakers of Spanish"
 author: "Laura Fernández Arroyo"
-date: "2019-03-27 (updated: `r Sys.Date()`)"
+date: "2019-05-06"
 
 output:
   xaringan::moon_reader:
     lib_dir: libs
-    css: ["tamu-fonts", "tamu"]
+    css: ["hygge", "rutgers-fonts", "rutgers"]
     nature:
       beforeInit: "macros.js"
       highlightStyle: github
@@ -15,291 +14,300 @@ output:
       countIncrementalSlides: false
 ---
 
+# 1. Introduction
 
-# Content
-
-1. Goal of the study
-
---
-
-2. Methodology
---
-
-3. Material and resource availability
+### .center[To be left high and dry   
+The grass is always greener on the other side]
 
 --
- 
-4. Supplementary materials
---
 
-5. Analysis:
+Even proficient L2 speakers have problems (Hill, 1999; Littlemore et al., 2011)   
+- Inefficient processing (Kim & Nam, 2017)
+- Use of different processing strategies (Littlemore & Low, 2006) 
+- Storage?
 
-    - Software
-    - Running the code
---
-
-6. Other materials
---
-
-7. Conclusion
-
----
-
-# 1. Goal of the study
-
-<br/>
 
 ???
 
-The research so far is lacking empirical evidence for the relationship between the prosodic signal and information structure as perceived by a listener. This study aimed at finding out
-
---
-
-### .center[**To what extent can prosodic form-function relationships <br/> be detected on the basis of prosodic cues?**]
-
-???
-
-
-
-The relationships they focus on are Givenness and Focus distinctions, as prosody is very important in distinguishing them, especially in West Germanic languages (Büring, 2006; Ladd, 2008; Rooth, 1992; Selkirk, 1995). In particular, the two research questions guiding this study were
-
---
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-"(i) How well listeners can identify the focus condition of an utterance based on its prosodic form (form-to-function mapping)"
-
-
---
-
-"(ii) How well they can identify an appropriate prosodic form to match the focus condition specified by the discourse context (function-to-form mapping)"
+Mention Pollio et al.'s (1987) study
 
 ---
 
-# 2. Methods
+# 1. Introduction
+
+## Constraint-Based Model (Libben & Titone, 2008)
+
+Figurative language processed as literal language, but:
+1. very familiar idioms are stored as units. 
+2. the figurative interpretation of an idiom can be activated before the expression has reached its end. 
+3. the compositional and non-compositional meanings of the string may interact. 
+
+---
+
+# 1. Introduction
+
+## Literal Saliency Hypothesis
+
+- Conventionality
+- Frequency
+- Prototypicality
+- Familiarity
+
+.small[(Huang, 2009)]
+<br/>
+--
+<br/>
+<br/>
+- For cross-linguistic transfer (Carroll et al., 2016, Heredia & Cieślicka, 2014, Williams & Cheung, 2011)
+- Against cross-linguistic transfer (Kellerman, 1986, Wolter & Yamashita, 2015)
+- In between (Boers, 2003, Bulut & Çelik-Yazici, 2004, Charteris-Black, 2002, Laufer, 2000, Liontas, 2001) 
+
+---
+
+# 1. Introduction
+
+## Semantic anticipation
+
+- Gender (Huettig & Janse, 2016)
+- Tense (Altmann & Kamide, 2007)
+- Stereotypical constraints (Kamide, Altmann & Haywood, 2003)
+- Nouns based on frequent context (DeLong, Urbach and Kutas, 2005; Nieuwland et al., 2017)
+
+
+---
+
+# 2. My study
+
+### Can L1 and L2 speakers predict figurative language based on the first lexical item of the expression?
+
+--
+
+<br/>
+.center[
+Por _nada_ del __mundo__
+]
+
+<br/>
+--
+
+- L1 and interpreters anticipate figurative expressions but not literal.
+- L2 cannot use the first content word as key element to anticipate.
+
+If they can anticipate it, the collocation stored as multi-word unit.
+
+---
+
+# 2. My study
+
+### For L2 speakers, do they anticipate faster collocations with equivalents in their L1?
+
+<br/>
+
+- Advanced L2 speakers will not anticipate differently both conditions.
+
+<br/>
+
+No cross-linguistic transfer.
+
+---
+
+    What are my independent variables?
+
+--
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Group
+
+<br/>
+--
+
+|                                              |Figurative                                    |Literal                     |
+|:---------------------------------------------|:---------------------------------------------|:---------------------------|
+|Exists in English                             |por nada del mundo                            |por nada del plato          |
+|Does not exist in English  &nbsp;&nbsp;&nbsp; |con conocimiento de causa  &nbsp;&nbsp;&nbsp; |con conocimiento de sanción |
+
+---
+
+# 3. Methods
 
 ## Participants
 
-- Recruited online
+- 32 L1 Spanish
+- 31 L1 English, advanced L2 Spanish
 
-- From the United States 
+--
 
-- +18 years old
+## Materials
 
-- Only one participation
+16 collocations + 16 versiones literales
 
-???
-via the crowd-sourcing website Amazon Mechanical Turk (AMT).
-
-[findparticipants
-prolific.ac]
-
-via filtering of IP address by the AMT system
-
-xx
-
-from 3 experiments 
+.small[Frequency: CREA]
 
 ---
 
-# 2. Methods
+# 3. Methods
 
-## Materials & Procedure
+## Procedure
 
+### Norming Phase 
+(Molinaro & Carreiras, 2010; Cacciari & Corradini, 2015)
+
+--
+
+### Experimental Phase
+
+- DELE
+- Sociolinguistic background
+- Eye-tracking task
+- Working memory task
+- Phonetic short-term memory task
+- Collocation recognition tasks
+
+---
+
+# 3. Methods
+
+### Eye-tracking sample trial
+
+<br>
 <br/>
 
-|(1) Damon fried the omelet. <br/> |
-|:-------|:------|
-| a. Do you know what happened yesterday? | [Damon fried the omelet]<sub>F</sub>. |
-| b. Do you know who fried the omelet? | [Damon]<sub>F</sub> fried the omelet. |
-| c. Do you know what Damon fried? | Damon fried [the omelet]<sub>F</sub>. |
-| d. Did Pam fry the omelet? | [Damon]<sub>F</sub> fried the omelet. |
-| e. Did Damon fry the omelet? | Damon fried the omelet. |
+<p align="center">
+<img src="./libs/images/et_trial.png">
+</p>
 
+---
+
+    What might the dependent variable be?
+
+--
+
+    Proportion of fixations on target
+<br/>
 <br/>
 
-- Two-alternative forced-choice response (experiments 1 and 2)
-- 5-point scale response (experiment 3)
+--
 
-???
+.center[Questions, concerns, suggestions about experimental design?]
 
-Between-subjects
-Reaction to short question-answer dialogues.
+---
+# 4. Analysis
 
-The question provides the discourse context that establishes one of four information structure conditions of the answer: broad focus (a), narrow focus (b-c), and contrastive focus (d) on the sentential subject, and the sentence subject as discourse-given (e).
+    What would you run:
+    
+      - To calculate whether speakers anticipate or not:
 
-For experiments 1 & 2
-Two tasks (between-subjects, only one pair)
-  1. listeners had to select which of two prosodic patterns best signalled a specified focus category (1 context – 2 prosodic forms, henceforth 1C-2P)
-  2. listeners had to select which of two focus categories was signalled by the prosody of an utterance (2 contexts – 1 prosodic form, henceforth 2C-1P).
+--
 
+          One-tailed t-tests
+
+--
+
+      - To evaluate the influence of each independent variable on the capacity to anticipate figurative language:
+
+--
+
+          GLMM
 
 ---
 
-# 2. Methods
+# 4. Analysis
 
-## Statistical Analysis
+    Your turn:
 
-Bayesian statistics
-  - Hierarchy logistic regression models (Exp. 1 & 2)
-  - Hierarchical ordinal logistic models (Exp. 3)
-      - Random intercept for participants
+      - Calculate whether L2 speakers anticipated expressions with equivalent versions in English in figurative trials.
+      - Calculate homogeneity.
+      - Calculate any differences in anticipation between groups for figurative trials in general.
 
----
-
-# 3. Material and resource availability
-
-https://osf.io/4qxmh/
-
-Data  
-Code
-      Abstract
-      Wiki for project content  
-
-<img src="./libs/images/wiki.png" height="200px" width="450px" />
+--
+    How to:
+    
+      1. Convert categorical predictors to numerical predictors.
+      2. Select cases.
+      3. One-sample t test > Test value = 50
       
---
-NO reproducible document:
-  - No registration
-  - No README
-  
-???
-![](./libs/images/wiki.png)
-  
-
+      I. Select cases.
+      II. Compare means > Independent samples t test
+      III. Compare t observed with t critical (hypothesis: mon anticipate > L2)
 
 ---
- 
-# 4. Supplementary materials
 
-https://osf.io/4qxmh/
+# 5. Results
 
-Stimuli   
-Figures (reproduced)
-
-
+### Anticipation of L2 speakers in figurative trials when similar expressions exist in English
 
 --
 
-No README file, no codebook for supplementary materials either
+H<sub>0</sub>: There will be no differences
+t observed: _t_(123) = -1109.94, _p_ = .000
+t critical: 1.980
 
-
----
-
-# 5. Analysis:
-
-##  Software
-
-R > brms (Bürkner, 2016)
-   
-???
-So open source
-
---
-      
-##  Running the code
-
-No errors (if everything run)   
-
-
-No output   
-Poor informative comments in code (except at beginning)
-No print command to see actual results
->
-Results confusing: same names for code variables in both experiments        
-Decimals sometimes truncated sometimes rounded up or down   
-Exp 3 outputs many more numbers than reported: criteria for exclusion?
-
-
-      
-???
-If run from the created data files, then experiment 1 throws error for one command
-
-Two figures have their own code, four others embedded in analysis code, and not all numbers are rounded equal (some up after .5, some down even if higher than .5)
-
-If you run all the code, and print, it will retrieve results for exp 2 
-
----
-##### See higher bound for estimate, numbers sometimes truncated, other rounded
-
-![](./libs/images/table_2.png)
-
-![](./libs/images/hb_2.png)
+Since t ovserved is smaller than t critical, we cannot reject H<sub>0</sub> (no anticipation), and therefore we can conclude that bilingual speakers do not anticipate figuratve collocations that have equivalent expressions in English.
 
 ---
 
-# 5. Analysis
+# 5. Results
 
-Results reproduced mostly   
-But, for experiment 1 (table 1), beta not always
+### Differences between groups in figurative trials
 
 --
 
-##### See P beta > 0 column, data not always reproduced
+H<sub>A</sub>: Monolingual speakers anticipate more than L2 speakers
+Levene p = .045 > equal variances not assumed
+t observed: _t_(500.947) = 2.462, _p_ = .014
+t critical: 1.645
 
-![](./libs/images/table_1.png)
-
-![](./libs/images/beta_1.png)
+We can reject H<sub>0</sub> (no differences) and conclude that monolingual speakers anticipate more than advanced L2 speakers.
 
 ---
-# 6. Other materials
 
-Two RData files
+# 5. Results
 
-???
-generated by code anyway, but appreciated as it takes forever to produce them
+.pull-left[![Group anticipation comparison in figurative trials](./libs/images/Figurative.png)]
+
+.pull-right[![Group anticipation comparison in literal trials](./libs/images/Literal.png)]
+
+---
+
+# 5. Results
+
+![L2 speakers' anticipation in figurative and literal trials comparing expressions with equivalent versions in English](./libs/images/L2_equivEN.png)
+
+---
+
+# 6. Discussion
+
+Monolinguals anticipate > expressions as multi-word units
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lexical elements as cues    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Delayed figurative activation   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Constraint-Based Model
+
+--
+
+L2 speakers do not anticipate > individual word storage
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Combined to match context     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No cross-linguistic transfer
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Literal Saliency Hypothesis
 
 ---
 
 # 7. Conclusion
 
-Score: 5/10
-
---
-
-Reasons:  
-
-
-  - Stimuli provided
-  - Working code provided
-
---
-<br/>
-
-  - No pre-registration
-  - No README
-  - No reproducible document
-  - Poor comments and name assignment in code resulting in confusing reproducible results
-  - Data sometimes manipulated?
-  - Directory had to be changed to reproduce figures 1 & 2
-
-
-???
-
-To see changes in real time
-
-remotes::install_github('yihui/xaringan', upgrade = TRUE)
-xaringan::inf_mr()  # delay is one second
+Lagging L2 figurative language performance may stem from storage.
 
 
 ---
 
-<img src="./libs/images/model.png" height="480px" width="800px"/>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
-???
-We all feel frustrated: Model that shit
-
----
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
+.center[
 # Thank you
+]
+
+
