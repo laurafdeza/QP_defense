@@ -268,7 +268,7 @@ We can reject H<sub>0</sub> (no differences) and conclude that monolingual speak
 
 # 5. Results
 
-Group anticipation comparison in by figurativeness
+Group anticipation comparison by figurativeness
 ![](./libs/images/figurativeness.png)
 
 
@@ -276,7 +276,7 @@ Group anticipation comparison in by figurativeness
 
 # 5. Results
 
-L2 speakers' anticipation in figurative and literal trials comparing expressions with equivalent versions in English
+L2 speakers' anticipation in figurative and literal trials comparing expressions with and without equivalent versions in English
 ![](./libs/images/L2_equivEN.png)
 
 ---
