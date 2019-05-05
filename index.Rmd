@@ -21,9 +21,9 @@ The grass is always greener on the other side]
 
 --
 
-Even proficient L2 speakers have problems (Hill, 1999; Littlemore et al., 2011)   
-- Inefficient processing (Kim & Nam, 2017)
-- Use of different processing strategies (Littlemore & Low, 2006) 
+Even proficient L2 speakers have problems <font size="-1">(Hill, 1999; Littlemore et al., 2011)</font>   
+- Inefficient processing <font size="-1">(Kim & Nam, 2017)</font>
+- Use of different processing strategies <font size="-1">(Littlemore & Low, 2006)</font> 
 - Storage?
 
 
@@ -35,7 +35,7 @@ Mention Pollio et al.'s (1987) study
 
 # 1. Introduction
 
-## Constraint-Based Model (Libben & Titone, 2008)
+## Constraint-Based Model <font size="-1">(Libben & Titone, 2008)</font>
 
 Figurative language processed as literal language, but:
 1. very familiar idioms are stored as units. 
@@ -53,14 +53,14 @@ Figurative language processed as literal language, but:
 - Prototypicality
 - Familiarity
 
-.small[(Huang, 2009)]
+<font size="-1">(Huang, 2009)</font>
 <br/>
 --
 <br/>
 <br/>
-- For cross-linguistic transfer (Carroll et al., 2016, Heredia & Cieślicka, 2014, Williams & Cheung, 2011)
-- Against cross-linguistic transfer (Kellerman, 1986, Wolter & Yamashita, 2015)
-- In between (Boers, 2003, Bulut & Çelik-Yazici, 2004, Charteris-Black, 2002, Laufer, 2000, Liontas, 2001) 
+- For cross-linguistic transfer <font size="-1">(Carroll et al., 2016, Heredia & Cieślicka, 2014, Williams & Cheung, 2011)</font>    
+- Against cross-linguistic transfer <font size="-1">(Kellerman, 1986, Wolter & Yamashita, 2015)</font> <br/>
+- In between <font size="-1">(Boers, 2003, Bulut & Çelik-Yazici, 2004, Charteris-Black, 2002, Laufer, 2000, Liontas, 2001)</font> 
 
 ---
 
@@ -68,10 +68,10 @@ Figurative language processed as literal language, but:
 
 ## Semantic anticipation
 
-- Gender (Huettig & Janse, 2016)
-- Tense (Altmann & Kamide, 2007)
-- Stereotypical constraints (Kamide, Altmann & Haywood, 2003)
-- Nouns based on frequent context (DeLong, Urbach and Kutas, 2005; Nieuwland et al., 2017)
+- Gender <font size="-1">(Huettig & Janse, 2016)</font>
+- Tense <font size="-1">(Altmann & Kamide, 2007)</font>
+- Stereotypical constraints <font size="-1">(Kamide, Altmann & Haywood, 2003)</font>
+- Nouns based on frequent context <font size="-1">(DeLong, Urbach and Kutas, 2005; Nieuwland et al., 2017)</font>
 
 
 ---
@@ -152,7 +152,7 @@ No cross-linguistic transfer.
 ## Procedure
 
 ### Norming Phase 
-(Molinaro & Carreiras, 2010; Cacciari & Corradini, 2015)
+<font size="-1">(Molinaro & Carreiras, 2010; Cacciari & Corradini, 2015)</font>
 
 --
 
