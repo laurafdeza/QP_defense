@@ -117,13 +117,16 @@ No cross-linguistic transfer.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Group
 
-<br/>
---
 
-|                                              |Figurative                                    |Literal                     |
-|:---------------------------------------------|:---------------------------------------------|:---------------------------|
-|Exists in English                             |por nada del mundo                            |por nada del plato          |
-|Does not exist in English  &nbsp;&nbsp;&nbsp; |con conocimiento de causa  &nbsp;&nbsp;&nbsp; |con conocimiento de sanción |
+--
+<br/>
+
+|  | Figurative | Literal |
+|:---|:---|:---|  
+|  |   |   </br>
+| Exists in English | por nada del mundo | por nada del plato |   
+|  |   |   </br>
+| Does not exist in English | con conocimiento de causa | con conocimiento de sanción |   
 
 ---
 
