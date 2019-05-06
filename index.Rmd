@@ -294,7 +294,7 @@ Monolinguals anticipate > expressions as multi-word units
 L2 speakers do not anticipate > individual word storage
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Combined to match context     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No cross-linguistic transfer
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No cross-linguistic transfer    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Literal Saliency Hypothesis
 
 ---
@@ -302,6 +302,7 @@ L2 speakers do not anticipate > individual word storage
 # 7. Conclusion
 
 Lagging L2 figurative language performance may stem from storage.
+Should we teach figurative expressions differently?
 
 
 ---
