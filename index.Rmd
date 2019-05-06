@@ -294,11 +294,7 @@ Monolinguals anticipate > expressions as multi-word units
 L2 speakers do not anticipate > individual word storage
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Combined to match context     
-<<<<<<< HEAD
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No cross-linguistic transfer    
-=======
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No cross-linguistic transfer </br>
->>>>>>> 6e9fcdabf2cde3fbce6f1e7caab21aa2b3736d56
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Literal Saliency Hypothesis
 
 ---
