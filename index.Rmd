@@ -47,7 +47,7 @@ Figurative language processed as literal language, but:
 
 # 1. Introduction
 
-## Literal Saliency Hypothesis
+## Literal Saliency Hypothesis <font size="-1">(Cieślicka, 2006)</font>
 
 - Conventionality
 - Frequency
@@ -179,10 +179,10 @@ to move add one line -> <br/>
 
 ### Eye-tracking sample trial
 
-<br>
 <p align="center">
 <img src="./libs/images/et_trial.png">
 </p>
+Audio: _La niña no se come por nada del mundo la colifor._
 
 ---
 
@@ -221,6 +221,7 @@ Monolinguals anticipate > expressions as multi-word units
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Lexical elements as cues    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Delayed figurative activation <font size="-1">(Boulenger et al., 2012)</font>     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Figurative interpretation activated even in literal contexts     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Literal uses anticipated through prosody
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Constraint-Based Model
 
 --
