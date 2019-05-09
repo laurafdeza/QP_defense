@@ -1,7 +1,7 @@
 ---
-title: "Anticipation of Figurative Collocations Based on Lexical Cues in L1 and L2 Speakers of Spanish"
+title: "Anticipation of Figurative Collocations in Native and Non-native Speakers of Spanish"
 author: "Laura Fernández Arroyo"
-date: "2019-05-06"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
 
 output:
   xaringan::moon_reader:
@@ -29,7 +29,8 @@ Even proficient L2 speakers have problems <font size="-1">(Hill, 1999; Littlemor
 
 ???
 
-Mention Pollio et al.'s (1987) study
+Mention Pollio et al.'s (1987)
+English sources 3k novel metaphors + 7k idioms/week
 
 ---
 
@@ -73,12 +74,22 @@ Figurative language processed as literal language, but:
 - Stereotypical constraints <font size="-1">(Kamide, Altmann & Haywood, 2003)</font>
 - Nouns based on frequent context <font size="-1">(DeLong, Urbach and Kutas, 2005; Nieuwland et al., 2017)</font>
 
+---
+
+# 1. Introduction
+
+## Interpreters
+
+- Better at detecting erros in written contexts <font size="-1">(Yudes et al., 2013)</font>   
+- Improved reading comprehension <font size="-1">(Bajo et al., 2000)</font>   
+- Superior semantic processing abilities <font size="-1">(García, 2014)</font> 
+
 
 ---
 
 # 2. My study
 
-### Can L1 and L2 speakers predict figurative language based on the first lexical item of the expression?
+### Can L1 and L2 speakers of Spanish (proficient speakers and interpreters) predict figurative language based on the first lexical item of the expression?
 
 --
 
@@ -90,10 +101,11 @@ Por _nada_ del __mundo__
 <br/>
 --
 
-- L1 and interpreters anticipate figurative expressions but not literal.
-- L2 cannot use the first content word as key element to anticipate.
+- L1 speakers and interpreters anticipate figurative expressions but not literal.
+- Proficient L2 speakers cannot use the first content word as key element to anticipate.
 
-If they can anticipate it, the collocation stored as multi-word unit.
+If speakers can anticipate it, the collocation stored as multi-word unit.
+Anticipation experience helps in processing figurative language efficiently.
 
 ---
 
@@ -103,30 +115,12 @@ If they can anticipate it, the collocation stored as multi-word unit.
 
 <br/>
 
-- Advanced L2 speakers will not anticipate differently both conditions.
+- Interpreters will anticipate alike both conditions.
+- Proficient L2 speakers will not anticipate differently both conditions.
 
 <br/>
 
-No cross-linguistic transfer.
-
----
-
-    What are my independent variables?
-
---
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Group
-
-
---
-<br/>
-
-|  | Figurative | Literal |
-|:---|:---|:---|  
-|  |   |   </br>
-| Exists in English | por nada del mundo | por nada del plato |   
-|  |   |   </br>
-| Does not exist in English | con conocimiento de causa | con conocimiento de sanción |   
+No cross-linguistic transfer due to idiosyncrasies.
 
 ---
 
@@ -136,14 +130,29 @@ No cross-linguistic transfer.
 
 - 32 L1 Spanish
 - 31 L1 English, advanced L2 Spanish
+- 13 L1 English, L2 Spanish interpreters
 
---
+???
+
+to indent -> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+to move add one line -> <br/>
+---
+
+# 3. Methods
 
 ## Materials
 
-16 collocations + 16 versiones literales
+16 collocations + 16 versiones literales    
+<font size="-1">Frequency: CREA</font>
+</br>
+</br>
 
-.small[Frequency: CREA]
+|  | Figurative | Literal |
+|:---|:---|:---|  
+|  |   |   </br>
+| Exists in English | por nada del mundo | por nada del plato |   
+|  |   |   </br>
+| Does not exist in English | con conocimiento de causa | con conocimiento de sanción |   
 
 ---
 
@@ -161,7 +170,6 @@ No cross-linguistic transfer.
 - DELE
 - Sociolinguistic background
 - Eye-tracking task
-- Working memory task
 - Phonetic short-term memory task
 - Collocation recognition tasks
 
@@ -172,134 +180,61 @@ No cross-linguistic transfer.
 ### Eye-tracking sample trial
 
 <br>
-<br/>
-
 <p align="center">
 <img src="./libs/images/et_trial.png">
 </p>
 
 ---
 
-    What might the dependent variable be?
-
---
-
-    Proportion of fixations on target
-<br/>
-<br/>
-
---
-
-.center[Questions, concerns, suggestions about experimental design?]
-
----
-# 4. Analysis
-
-    What would you run:
-    
-      - To calculate whether speakers anticipate or not:
-
---
-
-          One-tailed t-tests
-
---
-
-      - To evaluate the influence of each independent variable on the capacity
-      to anticipate figurative language:
-
---
-
-          GLMM
-
----
-
-# 4. Analysis
-
-    Your turn:
-
-      - Calculate whether L2 speakers anticipated expressions with equivalent 
-      versions in English in figurative trials.
-      - Calculate homogeneity.
-      - Calculate any differences in anticipation between groups for 
-      figurative trials in general.
-
---
-    How to:
-    
-      1. Convert categorical predictors to numerical predictors.
-      2. Select cases.
-      3. One-sample t test > Test value = 50
-      
-      I. Select cases.
-      II. Compare means > Independent samples t test
-      III. Compare t observed with t critical (hypothesis: mon anticipate > L2)
-
----
-
-# 5. Results
-
-### Anticipation of L2 speakers in figurative trials when similar expressions exist in English
-
---
-
-H<sub>0</sub>: There will be no differences
-t observed: _t_(123) = -1109.94, _p_ = .000
-t critical: 1.980
-
-Since t ovserved is smaller than t critical, we cannot reject H<sub>0</sub> (no anticipation), and therefore we can conclude that bilingual speakers do not anticipate figuratve collocations that have equivalent expressions in English.
-
----
-
-# 5. Results
-
-### Differences between groups in figurative trials
-
---
-
-H<sub>A</sub>: Monolingual speakers anticipate more than L2 speakers
-Levene p = .045 > equal variances not assumed
-t observed: _t_(500.947) = 2.462, _p_ = .014
-t critical: 1.645
-
-We can reject H<sub>0</sub> (no differences) and conclude that monolingual speakers anticipate more than advanced L2 speakers.
-
----
-
-# 5. Results
+# 4. Results
 
 Group anticipation comparison by figurativeness
-![](./libs/images/figurativeness.png)
+![](./libs/images/Groupxfigurativeness.png)
 
 
 ---
 
-# 5. Results
+# 4. Results
 
 L2 speakers' anticipation in figurative and literal trials comparing expressions with and without equivalent versions in English
-![](./libs/images/L2_equivEN.png)
+![](./libs/images/L2xEnglish.png)
 
 ---
 
-# 6. Discussion
+# 4. Results
+
+- Monolinguals: Fixate on target above chance at target onset but not at cue offset in both figurative and literal trials.   
+- L2 speakers: Do not fixate on target above chance either at cue offset or target onset in either condition.
+
+--
+<br/>
+<br/>
+
+Main effect: Group
+
+---
+
+# 5. Discussion
 
 Monolinguals anticipate > expressions as multi-word units
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lexical elements as cues    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Delayed figurative activation   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Constraint-Based Model
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Lexical elements as cues    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Delayed figurative activation <font size="-1">(Boulenger et al., 2012)</font>     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Figurative interpretation activated even in literal contexts     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Constraint-Based Model
 
 --
 
 L2 speakers do not anticipate > individual word storage
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Combined to match context     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No cross-linguistic transfer    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Literal Saliency Hypothesis
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Combined to match context     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- No cross-linguistic transfer    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Anticipation experience do not help in figurative language processing    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Literal Saliency Hypothesis (partially)
 
 ---
 
-# 7. Conclusion
+# 6. Conclusion
 
 - Lagging L2 figurative language performance may stem from storage.     
 - Should we teach figurative expressions differently?
