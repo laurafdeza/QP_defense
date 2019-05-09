@@ -221,7 +221,7 @@ Monolinguals anticipate > expressions as multi-word units
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Lexical elements as cues    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Delayed figurative activation <font size="-1">(Boulenger et al., 2012)</font>     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Figurative interpretation activated even in literal contexts     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Literal uses anticipated through prosody
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Literal uses anticipated through prosody     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Constraint-Based Model
 
 --
